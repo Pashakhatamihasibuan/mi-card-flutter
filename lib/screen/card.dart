@@ -5,6 +5,7 @@ class MiCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // code
     return Scaffold(
       backgroundColor: Colors.blueGrey[900],
       body: SafeArea(
