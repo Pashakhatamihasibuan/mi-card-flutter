@@ -8,7 +8,7 @@ UI Card Flutter
 
 ## Output
 
-![alt text](https://github.com/Pashakhatamihasibuan/mi-card-flutter/blob/main/assets/images/simulator_screenshot_50849729-C6B9-4612-8792-8A0BB2EC0846.png)
+![alt text](https://github.com/Pashakhatamihasibuan/mi-card-flutter/blob/main/assets/images/screenshot.png)
 
 ## Feedback
 
